@@ -23,7 +23,7 @@ class ArticlesController < ApplicationController
     
   end
   
-  def
-  
+  def update
+    
   end
 end
